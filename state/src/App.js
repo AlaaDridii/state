@@ -12,8 +12,8 @@ export default class App extends Component {
     super()
     //initialition de State qui est composée de: Key: His Value,
     this.state={
-       imgg:'https://cdn.shopify.com/s/files/1/0244/2929/7760/files/1_26e3ec81-7d22-487a-921c-0554d4296cf0.jpg?v=1612034095',
-       name:'Diamond DA40 NG',
+       imgg:''https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgoizJCqOpVu8MeslP1POuJoSiADiywLsy4g&usqp=CAU'',
+       name:'Ons Jabeur',
        compter:0,
        show:false
       }
