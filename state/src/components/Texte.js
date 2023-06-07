@@ -4,7 +4,7 @@ export default class Texte extends Component {
     constructor(){
         super()
         this.state={
-            desc:'Diamond a choisi cet avion pour montrer une fiabilité hors du commun. En effet, le DA40 est un avion ou règne la sécurité avant tout ! Il y a toute une gamme de dispositifs qui permet à vos passagers de profiter pleinement de la vue sans avoir aucune contrainte.'
+            desc:'Ons Jabeur, née le 28 août 1994 à Ksar Hellal, est une joueuse de tennis tunisienne, professionnelle depuis 2010. En devenant numéro 2 mondiale dans le classement WTA en 2022, Jabeur est devenue la joueuse tunisienne, arabe et africaine la mieux classée des classements WTA et ATP..'
         }
     }
 
